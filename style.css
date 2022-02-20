@@ -1,0 +1,46 @@
+img{
+    height: 400px;
+    width: 400px;
+    border: 10px solid cadetblue;
+ 
+    float: center;
+}
+body{
+    background-color: gray;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    text-align: center;
+  
+}
+#one {
+    border: 20px solid rgb(238, 16, 16);
+    margin: 30px;
+}
+#two {
+    border: 20px solid rgb(109, 240, 22);
+    margin: 30px;
+
+}
+#three {
+    border: 20px solid rgb(6, 156, 243);
+    margin: 30px;
+}
+#four {
+    border: 20px solid rgb(243, 30, 15);
+    margin: 30px;
+}
+
+div {
+    width: 100%;
+}
+
+
+
+
+/* Put everything in the center. 
+Add a background
+Change the look of the font.
+Change the size of the h1 and p tags 
+Add margins to the images 
+Add border to the images
+ */
